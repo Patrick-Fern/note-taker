@@ -1,9 +1,14 @@
 {
   "notes": [
     {
-      "title": "first note",
-      "text": "first test",
+      "title": "Laundry",
+      "text": "you should probably wear clean clothes, you're an adult",
       "id": "0"
+    },
+    {
+      "title": "Finish project",
+      "text": "finish assignment before diner",
+      "id": "1"
     }
   ]
 }
